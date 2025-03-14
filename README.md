@@ -1,1 +1,1 @@
-This is the first small push on my git hub
+This is the first small push on my github
